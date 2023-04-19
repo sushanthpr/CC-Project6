@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: Users
+      host: springmongodb
+      port: 27017
+server:
+  port:8081
+
