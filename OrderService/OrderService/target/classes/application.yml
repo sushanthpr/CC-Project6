@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: microservices
+      host: springmongodb
+      port: 27017
+

@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: products
+      host: springmongodb
+      port: 27017
+
